@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "nexsusmc.aternos.me",
-    "port": 46529,
+    "ip": "eu1.freegamehost.xyz",
+    "port": 26566,
     "version": "",
     "try-creative": false
   },
